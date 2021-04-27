@@ -1,1 +1,6 @@
 # android-ttt
+
+
+## MVC
+
+## RoomDB
